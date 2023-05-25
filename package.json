@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-raudbrand-plugin",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "plugin for production project",
   "keywords": [
     "eslint",
